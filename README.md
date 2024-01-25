@@ -23,7 +23,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,C++,Python,javascript,Oop,DSA,firebase,github,git,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,c++,python,javascript,firebase,github,git,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Ahmed Nawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmednawaz&show_icons=true&theme=dark)
 
